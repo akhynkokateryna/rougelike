@@ -2,7 +2,6 @@
 
 from classes1 import (Room, Enemy, Item)
 
-
-class Student(Enemy):
-    def feed(self):
-        pass
+class Supporter(Enemy):
+    def __repr__(self):
+        return self.name
