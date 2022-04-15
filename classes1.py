@@ -90,7 +90,7 @@ class Enemy:
 
     def fight(self, weapon):
         "Returns True if enemy can be defeated with that item"
-        if weapon in self.weakness:
+        if weapon is self.weakness:
             return True
 
 
