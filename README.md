@@ -1,5 +1,6 @@
 # Rougelike
 A repository contains modules for two versions of the game rougelike.<br>
+
 Modules [classes1.py](classes1.py) and [main1.py](main1.py) are for the 5th task.<br>
 
 Modules [classes_lviv.py](classes_lviv.py) and [main_lviv.py](main_lviv.py) are for the 6th task.<br>
