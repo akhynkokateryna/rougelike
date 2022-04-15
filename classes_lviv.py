@@ -12,5 +12,7 @@ class Player:
 
 
 class Supporter(Enemy):
+    "Represents a character that is not an enemy"
+
     def __str__(self):
         return self.name
